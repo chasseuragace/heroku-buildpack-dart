@@ -60,7 +60,7 @@ build_pubspec() {
 #   else
 #     message '*** Skipping pub build because "web" folder not found'
 #   fi
-# }
+}
 
 export_env_dir "$3"
 
